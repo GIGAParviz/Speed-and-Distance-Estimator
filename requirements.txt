@@ -1,0 +1,3 @@
+# Usage: pip install -r requirements.txt
+ultralytics
+cv2_python

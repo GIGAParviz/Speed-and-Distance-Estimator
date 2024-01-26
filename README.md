@@ -12,6 +12,11 @@ https://github.com/GIGAParviz/Speed-and-Distance-Estimator/assets/129797437/5be0
 
 
 # How to run
+cloning
+```
+git clone https://github.com/GIGAParviz/Speed-and-Distance-Estimator.git
+```
+install requirements
 ```
 pip install -r requirements.txt
 ```

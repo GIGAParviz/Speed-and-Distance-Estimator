@@ -8,3 +8,14 @@
 
 
 https://github.com/GIGAParviz/Speed-and-Distance-Estimator/assets/129797437/5be0d777-8146-4e52-b1ca-ba829a90eaa9
+
+
+
+# How to run
+```
+pip install -r requirements.txt
+```
+then
+```
+python Speed and Distance Estimator.py --videopath {youre video path}
+```
